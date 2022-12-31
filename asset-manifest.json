@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/person_test/static/css/main.29772913.css",
+    "main.js": "/person_test/static/js/main.c322eab5.js",
+    "static/media/bg1.jpg": "/person_test/static/media/bg1.6b6674f46d798ce811ba.jpg",
+    "static/media/INTJ.png": "/person_test/static/media/INTJ.3737857de9cffec65e57.png",
+    "static/media/INFP.png": "/person_test/static/media/INFP.f5f0f3c0dbf24e93e0e0.png",
+    "static/media/ENFJ.png": "/person_test/static/media/ENFJ.abfa5a3e451e33fb76d5.png",
+    "static/media/ESFP.png": "/person_test/static/media/ESFP.30fc1d59b84be03a2e36.png",
+    "static/media/ENTJ.png": "/person_test/static/media/ENTJ.7b572c814068bcc72845.png",
+    "static/media/ISTJ.png": "/person_test/static/media/ISTJ.d437d62f83e4f1f16324.png",
+    "static/media/INFJ.png": "/person_test/static/media/INFJ.3cc4c1f61f47a3459c24.png",
+    "static/media/ENFP.png": "/person_test/static/media/ENFP.5655c4e92a18db9a4ed5.png",
+    "static/media/ENTP.png": "/person_test/static/media/ENTP.85e86167ff1f1e1ff367.png",
+    "static/media/ISFP.png": "/person_test/static/media/ISFP.5a885033ad26a8460222.png",
+    "static/media/ISTP.png": "/person_test/static/media/ISTP.ca1af3976f389d3507fa.png",
+    "static/media/again.png": "/person_test/static/media/again.3fc97fb4e4d3b5ec8178.png",
+    "static/media/ESTP.png": "/person_test/static/media/ESTP.e36c9523bc1a782f72f2.png",
+    "static/media/INTP.png": "/person_test/static/media/INTP.648bd8964deca070a034.png",
+    "static/media/ESTJ.png": "/person_test/static/media/ESTJ.c90fc3fd406d0d6c1207.png",
+    "static/media/ESFJ.png": "/person_test/static/media/ESFJ.1ce6657e4a54b206db86.png",
+    "static/media/ISFJ.png": "/person_test/static/media/ISFJ.da575ae3e9851790d53b.png",
+    "index.html": "/person_test/index.html",
+    "main.29772913.css.map": "/person_test/static/css/main.29772913.css.map",
+    "main.c322eab5.js.map": "/person_test/static/js/main.c322eab5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29772913.css",
+    "static/js/main.c322eab5.js"
+  ]
+}
